@@ -1,16 +1,17 @@
-## Hi there 👋
+## Software Developer & System Analyst
 
-<!--
-**ManuelSeitz/ManuelSeitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recently graduated, looking for experiences.
 
-Here are some ideas to get you started:
+I'm good at:
+- Making web applications
+- Creating automations
+- Normalizing databases
+- Planning software architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Languages I work with:
+- TypeScript
+- JavaScript
+- Python
+- PHP
